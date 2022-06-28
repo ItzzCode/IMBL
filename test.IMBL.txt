@@ -1,0 +1,8 @@
+// This is just a IMBL program to do testing
+
+namespace Program {
+	null Main() {
+		from <std> include <stdio>;
+		printLine("| - ||\n|| - |_");
+	}
+}
